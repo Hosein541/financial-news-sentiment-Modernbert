@@ -26,7 +26,7 @@ Financial texts and headlines often feature domain-specific nuances, market jarg
 
 ## 📊 Dataset & Preprocessing
 
-The model is trained on the [Sentiment Analysis for Financial News](https://www.google.com/search?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fankurzing%2Fsentiment-analysis-for-financial-news) dataset (Financial PhraseBank).
+The model is trained on the [Sentiment Analysis for Financial News](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news) dataset (Financial PhraseBank).
 
 * **Total raw samples**: 4,846 rows (`text`, `labels`).
 * **Class Balancing**: Downsampled to the minority class (`negative`), producing a balanced dataset of **604 samples per class** (1,812 total samples).
@@ -137,9 +137,5 @@ print(result)
 * [Unsloth](https://github.com/unslothai) for accelerating the fine-tuning pipeline.
 * [Hugging Face](https://huggingface.co) for the transformers ecosystem.
 * [Kaggle](https://www.kaggle.com) for hosting the Financial News Sentiment dataset.
-
-```
-
-```
 
 ---
