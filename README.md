@@ -91,10 +91,11 @@ label2id = {"neutral": 0, "negative": 1, "positive": 2}
 ```bash
 # Clone the repository
 git clone [https://github.com/](https://github.com/)/.git
-cd 
+cd financial-news-sentiment-Modernbert
 
-# Install required dependencies
-pip install unsloth transformers datasets scikit-learn seaborn matplotlib
+
+# Install pinned dependencies
+pip install -r requirements.txt
 
 ```
 
