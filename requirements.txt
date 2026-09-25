@@ -1,0 +1,29 @@
+# Core Framework & Optimization (Unsloth Stack)
+unsloth
+unsloth_zoo
+torchao>=0.16.0
+bitsandbytes
+accelerate
+peft
+triton
+
+# Hugging Face Ecosystem (Pinned from Notebook)
+transformers==4.56.2
+trl==0.22.2
+datasets==4.3.0
+huggingface_hub>=0.34.0
+hf_transfer
+sentencepiece
+protobuf
+
+# Data Handling & Download
+kagglehub
+pandas
+
+# Evaluation & Metrics
+scikit-learn
+tqdm
+
+# Visualization
+matplotlib
+seaborn
