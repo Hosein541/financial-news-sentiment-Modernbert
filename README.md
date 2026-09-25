@@ -81,7 +81,7 @@ label2id = {"neutral": 0, "negative": 1, "positive": 2}
 * **Test Accuracy**: **88.00%** on 250 evaluated test samples.
 
 ### Confusion Matrix
-
+![Confusion Matrix](asests/confusion_matrix.png)
 ---
 
 ## 🚀 Quickstart & Inference
