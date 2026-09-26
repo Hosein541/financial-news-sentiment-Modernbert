@@ -90,8 +90,8 @@ label2id = {"neutral": 0, "negative": 1, "positive": 2}
 
 ```bash
 # Clone the repository
-git clone https://github.com/Hosein541/financial-news-sentiment-Modernbert.git
-cd financial-news-sentiment-Modernbert
+git clone https://github.com/Hosein541/Modernbert-financial-news-sentiment.git
+cd Modernbert-financial-news-sentiment
 
 
 # Install pinned dependencies
